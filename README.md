@@ -1,15 +1,16 @@
-# SDR-Radio-Telescope
+ SDR-Radio-Telescope
+ 
 Building an open-source Radio Telescope with RTL-SDR and Python for cosmic signal observation.
 
-# 🌌 SDR-Based DIY Radio Telescope
+SDR-Based DIY Radio Telescope
 
 Hello! I am Naiem and an aspiring Electronic Engineering student. This is my open-source project for building a DIY Radio Telescope using an RTL-SDR receiver to observe cosmic radio signals (like Solar Transits or the 21cm Hydrogen Line).
 
-## 📡 System Block Diagram
+## System Block Diagram
 
 Below is the architectural flow of the radio telescope system:
 
-## 🛠️ Components Used
+##  Components Used
 
 ### Hardware:
 1. **RTL-SDR Blog V3/V4** USB Dongle.
