@@ -1,4 +1,4 @@
- SDR-Radio-Telescope
+ SDR-Radio-Telescope by yagi antenna 
  
 Building an open-source Radio Telescope with RTL-SDR and Python for cosmic signal observation.
 
@@ -22,6 +22,8 @@ Below is the architectural flow of the radio telescope system:
 - **Python 3.x**
 - **pyrtlsdr** library (for interfacing SDR with Python)
 - **matplotlib** & **numpy** (for data visualization)
+
+and i created an circuit embedding custom for signal dBm high 
 
 ## 💻 Software Implementation
 
