@@ -12,11 +12,11 @@ Hello! I am Naiem and an aspiring Electronic Engineering student. This is my ope
 
 Below is the architectural flow of the radio telescope system:
 
-##  Components Used
+#  Components Used
 
 ### Hardware:
 1. **RTL-SDR Blog V3/V4** USB Dongle.
-2. **2.4GHz WiFi Grid Dish** (Modified for 1.42 GHz) or a **Horn Antenna**.
+2. **2.4GHz WiFi Grid Dish** (Modified for 1.42 GHz) a **Horn Antenna**.
 3. **LNA (Low Noise Amplifier)** with a Bandpass Filter (e.g., Nooelec SAWbird+ H1).
 4. **PC / Laptop** (Linux/Windows).
 
